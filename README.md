@@ -69,7 +69,7 @@
   <a href="" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="lemauluckar80-youtube" />
   </a>
-  <a href="" target="blank">
+  <a href="https://instagram.com/leluc3533" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="lemauluckar80-linkedin" />
   </a>
   <a href="https://instagram.com/leluc3533" target="blank">
